@@ -33,7 +33,7 @@ You can then benefit from the LSP provided, with type-checking and autocomplete 
 
 ## Notes
 
-This example initizalizes `gql.tada` manually (See `graphql.ts`)
+This example initializes `gql.tada` manually (See `graphql.ts`)
 
 If using VSCode, ensure that the Typescript version is the workspace one.
 
